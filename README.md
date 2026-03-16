@@ -1,16 +1,14 @@
-## Hi there 👋
+## About me 👋
 
-<!--
-**lrasmuss1/lrasmuss1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Developer at Progress Software Corp. I have worked at Progress for over eight years.
+I am the site administrator for the OpenEdge content portal. 
+I also support the OpenEdge language teams by writing new feature documentation and I create OpenEdge courses and videos.
+Right now I am learning about Github, Markdown, and Github Copilot.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+When I'm not working, I enjoy:
+- reading📚
+- volunteering at a music venue🎼
+- golfing⛳,
+- crafting🪡
+- spending time with family and friends
